@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Page</title>
+</head>
+<body>
+    <h1>Test Page for SMSP Protocol</h1>
+    <div id="protocol">
+        <p>## SMSP PROTOCOL ##</p>
+        <p>Security ID = (1)</p>
+        <p>Date Key = (D45QWW8CAS5DAS1CASC6WQED78ASD41DA1SD8QW98EQW4DSA641CXZ5AS8WDQ978E4DAS5)</p>
+    </div>
+    <p>Welcome to the test page for the SMSP protocol verification.</p>
+</body>
+</html>
