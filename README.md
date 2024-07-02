@@ -1,6 +1,6 @@
 # Sawery Maxer Secure Protocol (SMSP)
 
-**Sawery Maxer Secure Protocol (SMSP)** is a secure and easy-to-implement communication protocol designed for HTTP/HTTPS that provides encrypted data exchange and ensures data integrity. SMSP uses a `Date Key` updated every 3 months to maintain security and includes a `Security ID` for session identification, along with a well-defined header format for secure data transmission.
+**Sawery Maxer Secure Protocol (SMSP)** is a secure and easy-to-implement communication protocol designed for HTTP/HTTPS that provides encrypted data exchange and ensures data integrity through a `Date Key` updated every 3 months. This protocol includes a `Security ID` for session identification and uses a defined header format for secure data transmission.
 
 ## Key Features
 
