@@ -1,6 +1,6 @@
 # Sawery Maxer Secure Protocol (SMSP)
 
-**Sawery Maxer Secure Protocol (SMSP)** is a straightforward and secure communication protocol designed for HTTP/HTTPS to ensure encrypted data exchange and data integrity. SMSP uses a `Security ID` for session identification and a defined header format for secure data transmission, making it an effective solution for short-term and long-term secure communications.
+**Sawery Maxer Secure Protocol (SMSP)** is a straightforward and secure communication protocol designed for HTTPS to ensure encrypted data exchange and data integrity. SMSP uses a `Security ID` for session identification and a defined header format for secure data transmission, making it an effective solution for short-term and long-term secure communications. SMSP has 2 security levels. `SMSP 1` for whitelisted websites, and `SMSP 2` for whitelisted and verified websites. Verification is done by Security ID. See `whitelist` file for whitelisted websites.
 
 ## Key Features
 
